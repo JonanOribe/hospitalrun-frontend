@@ -15,7 +15,7 @@ export default {
       requests: 'Pedidos',
       items: 'Items',
       completed: 'Completado',
-      newRequest: 'New pedido',
+      newRequest: 'Nuevo pedido',
       inventoryReceived: 'Inventario recibido',
       reports: 'Reportes',
       patientListing: 'Lista de pacientes',
@@ -206,7 +206,7 @@ export default {
     dateCompleted: 'Fecha completada',
     description: 'Descripción',
     requestedBy: 'Pedido por|',
-    fulfill: 'Cumplomiento',
+    fulfill: 'Cumplimiento',
     fulfillRequest: 'Pedido de cumplimiento',
     fulfillRequestNow: 'Pedido de cumplimiento ahora',
     actions: 'Acciones',
@@ -524,7 +524,7 @@ export default {
   },
   medication: {
     pageTitle: 'Pedido de medicación',
-    sectionTitle: 'Medication',
+    sectionTitle: 'Medicación',
     returnMedication: 'Retorno de medicación',
     buttons: {
       dispenseMedication: 'dispensar medicación',
